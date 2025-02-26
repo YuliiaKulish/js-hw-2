@@ -33,4 +33,4 @@ This repository contains solutions to JavaScript homework assignments related to
 
 ## 🔗 Підключені бібліотеки
 - [basicLightbox](https://github.com/electerious/basicLightbox)
-- [SimpleLightbox](https://simplelightbox.com/)
+- [SimpleLightbox](https://archetyped.com/tools/simple-lightbox/)
