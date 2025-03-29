@@ -21,7 +21,7 @@ This repository contains solutions to JavaScript homework assignments related to
 - Підключає бібліотеку `basicLightbox` для перегляду зображень у модальному вікні.
 - Закриває модальне вікно по натисканню клавіші `Escape`.
 
-📁 **Файл:** [`01-gallery.js`](./js/01-gallery.js)
+📁 **Файл:** [`01-gallery.js`](js/01-gallery.js)
 
 ---
 
@@ -31,7 +31,7 @@ This repository contains solutions to JavaScript homework assignments related to
 - Відображає підписи до зображень з `alt` через 250 мс після відкриття.
 - Реалізує гортання зображень за допомогою клавіатури.
 
-📁 **Файл:** [`02-lightbox.js`](./js/02-lightbox.js)
+📁 **Файл:** [`02-lightbox.js`](js/02-lightbox.js)
 
 ---
 
